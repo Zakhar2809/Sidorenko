@@ -1,3 +1,4 @@
+# ïïï
 # -*- coding: cp1251 -*-
 import tkinter as tk
 import pandas as pd
